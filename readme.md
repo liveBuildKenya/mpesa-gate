@@ -1,6 +1,6 @@
 ﻿# M-PESA Example Usage
 
-`
+```C#
 using Mpesa.Gate;
 using Mpesa.Gate.Core;
 using Mpesa.Gate.Models.Request;
@@ -52,4 +52,4 @@ namespace MpesaConsoleApp
         }
     }
 }
-`
+```
